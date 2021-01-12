@@ -3,6 +3,7 @@ print("привет введите строку символов")
 print("введите символ поиска")
 цело=input()
 
+
 def аналог(a,b):
     count=0
     for i in range(len(a)):
